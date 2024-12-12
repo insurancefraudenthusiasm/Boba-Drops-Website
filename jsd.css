@@ -1,0 +1,16 @@
+body {
+  background: #945b33;
+  color: #ffd376;
+  padding: 50px;
+  font-family: times-new-roman;
+  text-align:center;
+}
+h1{
+  color: #fff7df
+}
+
+elgato {
+  position: absolute;
+  margin-left: 20px;
+
+}
